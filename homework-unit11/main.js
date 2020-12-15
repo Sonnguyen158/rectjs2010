@@ -42,7 +42,6 @@ const deleteItem = array => {
 
 }
 
-
 //C2: Sử dụng filter:
 const filterItem = arr => arr.filter(Boolean)
 
